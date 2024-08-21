@@ -1,0 +1,8 @@
+praw
+requests
+pandas
+matplotlib
+nltk
+scipy
+seaborn
+vaderSentiment
